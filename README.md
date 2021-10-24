@@ -5,8 +5,7 @@ Link to tutorial
 https://developer.android.com/codelabs/build-your-first-android-app#8
 
 
-**Usefull sources
-**
+Usefull sources
 
 Java basics: W3 school  java tutorial
 https://www.w3schools.com/java/
